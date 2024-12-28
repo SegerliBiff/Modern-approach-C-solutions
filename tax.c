@@ -1,3 +1,5 @@
+// This is a simple tax calculator that will add a users chosen percentage of tac to an amount of the users choice
+// It does not work with floating point numbers
 #include <stdio.h>
 
 int main(void){
